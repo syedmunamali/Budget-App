@@ -1,0 +1,6 @@
+lib folder ke andr models folder bnana hai or us ke andr transaction.dart rkhni hai
+lib folder ke andr wdgets folder bnana hai or us ke andr baqi sari .dart files rkhni hain main ke ilawa
+lib folder ke andr main.dart rkni hai
+assets aik folder bnana hai root pr or us ke andr 2 folders bnane hain fonts or images
+images main waiting wali picture dal deni hai
+fonts main sare fonts 
